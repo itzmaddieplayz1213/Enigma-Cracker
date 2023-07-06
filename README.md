@@ -37,7 +37,7 @@ Easy to extend:
 ## How to use
 ### Install
 ```
-git clone https://github.com/Petitoto/Enigma-Cracker
+git clone https://github.com/itzmaddieplayz1213/Enigma-Cracker
 cd Enigma-Cracker
 python3 enigma-cracker.py
 ```
